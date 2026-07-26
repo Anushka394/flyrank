@@ -1,0 +1,9 @@
+{
+  "name": "tasks-sqlite",
+  "version": "1.0.0",
+  "description": "CRUD tasks API backed by SQLite (Node's built-in node:sqlite module)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
