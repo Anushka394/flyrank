@@ -6,8 +6,6 @@ export async function GET(request) {
   if (errorResponse) return errorResponse;
 
   return NextResponse.json({
-    id: user.id,
-    email: user.email,
-    created_at: user.created_at,
+    message: `Welcome to your dashboard, ${user.email}`,
   });
 }
