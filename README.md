@@ -2,9 +2,8 @@
 
 Weekly backend assignments:
 
-* [task1-mini-backend](./task1-mini-backend) — minimal server with 2 JSON endpoints
-* [task2-tasks-sqlite](./task2-tasks-sqlite) — CRUD + SQLite
-* [task3-postgres-docker](./task3-postgres-docker) — CRUD + Postgres in Docker
-* AI Fluency task — Learning modules and building project set up
-* 
-
+- [task1-mini-backend](https://github.com/Anushka394/flyrank/blob/main/task1-mini-backend) — minimal server with 2 JSON endpoints
+- [task2-tasks-sqlite](https://github.com/Anushka394/flyrank/blob/main/task2-tasks-sqlite) — CRUD + SQLite
+- [task3-postgres-docker](https://github.com/Anushka394/flyrank/blob/main/task3-postgres-docker) — CRUD + Postgres in Docker
+- [task4-auth-protect](https://github.com/Anushka394/flyrank/blob/main/task4-auth-protect) — Auth (Supabase, JWT) + protected routes + Swagger docs
+- AI Fluency task (FL-01) — workflow audit, tool setup, submitted separately as a Word doc
